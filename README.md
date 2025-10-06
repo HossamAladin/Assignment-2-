@@ -82,5 +82,3 @@ python vit_debugging.py
 3. **Debugging Skills**: Use PyCharm debugger to inspect tensor operations
 4. **Shape Tracking**: Document tensor shapes throughout the forward pass
 5. **Documentation**: Create comprehensive debugging report with screenshots
-**Course**: Image Processing - Level 4  
-**Assignment**: Debugging Vision Transformers (ViT) with PyCharm and WSL
